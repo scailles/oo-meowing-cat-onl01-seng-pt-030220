@@ -8,7 +8,7 @@ class Cat
     
   
   
-  def Cat.meow
+  def .meow
     puts "meow!"
   end
   
